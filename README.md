@@ -1,6 +1,6 @@
 # Ashina
 
-Ashina, a simples bot for discord that have diversous functions
+<img src="https://img.icons8.com/dusk/64/000000/bot.png"> Ashina, a simples bot for discord that have diversous functions
 
 ## Creator
 
