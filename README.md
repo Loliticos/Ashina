@@ -1,6 +1,7 @@
-# Ashina
+# About
 
-<img src="https://img.icons8.com/dusk/20/000000/bot.png"> Ashina is a simples bot for discord that have diversous functions
+<img src="https://img.icons8.com/dusk/25/000000/about.png"> Hello! my name is ashina and im a simples bot for discord that brings diversous functions!
+I was created in **<img src="https://img.icons8.com/color/25/000000/javascript.png"> [Javascript](https://www.javascript.com/)** with the framework <img src="https://img.icons8.com/clouds/25/000000/discord-logo.png"> **[Discord.js](https://discord.js.org/#/)**
 
 ## Creator
 
