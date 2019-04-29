@@ -1,4 +1,4 @@
-# Ashina <img src="https://cdn.discordapp.com/avatars/564131346591514635/479751875fb13e2f843a881f50bc348f.png?size=300" align="right">
+# Ashina <img src="https://cdn.discordapp.com/avatars/564131346591514635/3a7d56cfcb8aa4fe0739e11a9eca5ec2.png?size=2048" align="right">
 > .
 
 Ashina, a simples bot for discord that have diversous functions
