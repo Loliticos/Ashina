@@ -1,4 +1,4 @@
-#< img src="https://img.icons8.com/dusk/20/000000/bot.png"> Ashina
+# Ashina
 
 <img src="https://img.icons8.com/dusk/20/000000/bot.png"> Ashina, a simples bot for discord that have diversous functions
 
