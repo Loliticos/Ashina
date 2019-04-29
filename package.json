@@ -1,0 +1,38 @@
+{
+  "name": "Ashina",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.4.1",
+    "discord.js": "^11.4.2",
+    "djs-commands": "^1.2.2",
+    "dotenv": "^7.0.0",
+    "firebase": "^5.9.4",
+    "firebase-admin": "^7.3.0",
+    "fs": "0.0.1-security",
+    "google-translate-api": "^2.3.0",
+    "hastebin.js": "^0.8.0",
+    "lowdb": "^1.0.0",
+    "malapi": "0.0.3",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.2.2",
+    "node-fetch": "^2.3.0",
+    "parse-ms": "^2.0.0",
+    "querystring": "^0.2.0",
+    "request": "^2.88.0",
+    "simple-youtube-api": "^5.1.1",
+    "simsimi": "^2.0.3",
+    "superagent": "^5.0.2",
+    "translate": "^1.1.0",
+    "turndown": "^5.0.3",
+    "ytdl-core": "^0.29.1"
+  }
+}
