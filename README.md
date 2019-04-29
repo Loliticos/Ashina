@@ -4,7 +4,7 @@
 
 ## Creator
 
-<img src="https://img.icons8.com/color/05/000000/user.png"> **Ashina** was originally created by **[Loliticos#0001](https://github.com/Loliticos)**
+<img src="https://img.icons8.com/color/20/000000/user.png"> **Ashina** was originally created by **[Loliticos#0001](https://github.com/Loliticos)**
 
 ## Add-me
 
