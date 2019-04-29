@@ -1,6 +1,6 @@
 # About
 
-<img src="https://img.icons8.com/dusk/25/000000/about.png"> Hello! my name is ashina and im a simples bot for discord that brings diversous functions! <br>
+<img src="https://img.icons8.com/dusk/25/000000/about.png"> Hello! my name is Ashina and im a simples bot for discord that brings diversous functions! <br>
 I was created in **<img src="https://img.icons8.com/color/25/000000/javascript.png"> [Javascript](https://www.javascript.com/)** with the framework <img src="https://img.icons8.com/clouds/25/000000/discord-logo.png"> **[Discord.js](https://discord.js.org/#/)**
 
 ## Creator
