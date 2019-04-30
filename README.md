@@ -14,11 +14,3 @@ I was created in **<img src="https://img.icons8.com/color/25/000000/javascript.p
 ## Support Guild
 
 <img src="https://img.icons8.com/dusk/25/000000/support.png"> If you are needing help with some commands of Ashina you can join in this discord guild, just click **[here](https://discord.gg/ZUXx44)**
-
-<a href="https://discordbotlist.com/bots/564131346591514635">
-    <img 
-        width="380" 
-        height="140" 
-        src="https://discordbotlist.com/bots/564131346591514635/widget" 
-        alt="Ashina stats on Discord Bot List">
-</a>
