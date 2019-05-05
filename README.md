@@ -16,5 +16,5 @@ I was created in **<img src="https://img.icons8.com/color/25/000000/javascript.p
 <img src="https://img.icons8.com/dusk/25/000000/support.png"> If you are needing help with some commands of Ashina you can join in this discord guild, just click **[here](https://discord.gg/ZUXx44)**
 
 <a href="https://discordbots.org/bot/564131346591514635" >
-  <img src="https://discordbots.org/api/widget/564131346591514635.svg?usernamecolor=FFFFFF&topcolor=007fc7" alt="Ashina" />
+  <img src="https://discordbots.org/api/widget/564131346591514635.svg?usernamecolor=FFFFFF&topcolor=000000" alt="Ashina" />
 </a>
