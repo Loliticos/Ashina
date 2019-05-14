@@ -8,7 +8,19 @@ module.exports = async (client, oldMessage, newMessage) => {
 
   	  let database = admin.firestore()
 
-  	    database.collection('guilds').doc(oldMessage.guild.id).get().then((dataGuild) => {
+  	    database.collection('guilds').doc(newMessage.guild.id).get().then((dataGuild) => {
+
+          if(!dataGuild) {
+            database.collection('guilds').doc(newMessage.guild.id).set({
+              'guildID' : guild.id,
+              'prefix' : 'a!',
+              'welcomeMSG' : false,
+              'welcomeChannel' : false,
+              'language' : 'en-us',
+              'logChannel' : false,
+              'autoRole' : false
+            })
+          }
 
   	    	const channelID = dataGuild.data().logChannel
 

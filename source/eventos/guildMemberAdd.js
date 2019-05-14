@@ -18,6 +18,6 @@ module.exports = async (client, member) => {
           const channel = member.guild.channels.get(channelID)
           // Você pode utilizar isso para pegar o objeto do canal, já que a variavel 'channelID' é um id ele procura o canal por esse id
 
-          channel.send(message.replace('{member}', member.username).replace('{guild}', member.guild.name).replace('{@member}', member).replace('{memberCount}', member.guild.memberCount))
+          channel.send(message.replace('{member}', member.user.username).replace('{@member}', member).replace('{guild}', member.guild.name).replace('{memberCount}', member.guild.memberCount))
   })
 }

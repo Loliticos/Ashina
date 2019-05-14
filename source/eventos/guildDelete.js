@@ -1,4 +1,3 @@
-
 module.exports = async (client, guild) => {
 
   const admin = require('firebase-admin')
@@ -7,3 +6,5 @@ module.exports = async (client, guild) => {
 
 database.collection('guilds').doc(guild.id).delete()
 }
+
+

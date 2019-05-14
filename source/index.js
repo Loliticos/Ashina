@@ -13,6 +13,7 @@ admin.initializeApp({
 
 client.commands = new Discord.Collection()
 client.aliases = new Discord.Collection
+client.help = new Discord.Collection
 
 fs.readdir("./eventos/", (err, files) => {
     if (err) return console.error(err);

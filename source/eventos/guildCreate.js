@@ -1,4 +1,3 @@
-
 module.exports = async (client, guild) => {
 
   const admin = require('firebase-admin')
@@ -14,4 +13,8 @@ module.exports = async (client, guild) => {
       'logChannel' : false,
       'autoRole' : false
   })
+
 }
+
+
+
